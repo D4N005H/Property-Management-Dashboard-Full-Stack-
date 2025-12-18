@@ -47,12 +47,6 @@ Follow these steps to run the application.
 
 ### 1. Clone the Repository
 
-```bash
-gh repo clone D4N005H/Property-Management-Dashboard-Full-Stack-
-cd property-manager
-```
-(You may use `git clone` instead)
-
 ### 2. Start the Database (Docker)
 
 Docker is used to spin up a PostgreSQL instance without needing a local installation.
