@@ -1,6 +1,8 @@
 # Property Management Dashboard (Full-Stack)
-
-A robust, full-stack application designed for the efficient management of real estate properties (WEG and MV). This project features an AI-powered creation wizard that extracts data from legal PDF documents ("Teilungserklärung") and provides a high-performance interface for managing complex property structures with dozens of units.
+# [The Demo Video Is Here*](https://tech.danoosh.net/StreamingAssets/nestNextJSProjectDemo-Compressed.mp4)
+*Note that if your browser doesn't play the video, download it locally and watch it - or if it is Chrome, then ensure Hardware Acceleration is set correctly in your Chrome settings. The video is just a quick demo, and this readme dives deeper technically and with more details
+-----
+**A robust, full-stack application designed for the efficient management of real estate properties (WEG and MV). This project features an AI-powered creation wizard that extracts data from legal PDF documents ("Teilungserklärung") and provides a high-performance interface for managing complex property structures with dozens of units.**
 
 ---
 
@@ -9,7 +11,7 @@ A robust, full-stack application designed for the efficient management of real e
 1.  [Prerequisites](#prerequisites)
 2.  [Project Architecture](#project-architecture)
 3.  [Installation & Setup](#installation--setup)
-4.  [Database Management (Docker)](#-database-management-docker)
+4.  [Database Management](#database-management-docker)
 5.  [User Manual & Features](#user-manual--features)
 6.  [Running Tests](#running-tests)
 7.  [Technical Deep Dive](#technical-deep-dive)
